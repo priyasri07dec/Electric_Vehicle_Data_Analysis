@@ -1,5 +1,6 @@
 ## Dashboard Overview
 ![EV Dashboard](EVDA_Dashboard.png)
+![EV Dashboard](EVDA_Chart_Detailed_Analysis.png)
 
 This dashboard analyzes electric vehicle adoption trends, vehicle types, and manufacturer distribution using Power BI.
 
